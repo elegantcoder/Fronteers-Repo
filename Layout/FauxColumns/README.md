@@ -19,6 +19,7 @@ body 에 배경관련 속성을 준다. repeat-y 속성을 주어 세로로 반�
 ![세로로 반복되는 배경이미지](http://elegantcoder.github.com/Fronteers-Repo/images/Layout/FauxColumns/tilecheat_2.gif "세로로 반복되는 배경 이미지")
 
 ### HTML
+```html
 <body>
 	<div id="container">
 		<div id="left"></div>
@@ -26,6 +27,7 @@ body 에 배경관련 속성을 준다. repeat-y 속성을 주어 세로로 반�
 		<div id="clear"></div>
 	</div>
 </body>
+```
 
 ### CSS
 ```css
