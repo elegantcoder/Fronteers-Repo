@@ -1,5 +1,5 @@
-Faux Column
-===========
+Faux Columns
+============
 ## 문제
 
 <dl>
